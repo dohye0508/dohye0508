@@ -1,16 +1,20 @@
-## Hi there 👋
+# lacampanella09
 
-<!--
-**dohye0508/dohye0508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lacampanella09)](https://solved.ac/lacampanella09/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 🔗 Links
+
+- Solved.ac: https://solved.ac/lacampanella09/
+- BOJ: https://www.acmicpc.net/user/lacampanella09
