@@ -4,7 +4,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lacampanella09&show_icons=true&theme=dark)
+![eq](https://latex.codecogs.com/png.image?\dpi{150}e^{i\pi}+1=0)
 
 ---
 
