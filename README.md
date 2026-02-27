@@ -1,7 +1,11 @@
 # lacampanella09
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lacampanella09)](https://solved.ac/lacampanella09/)
+
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lacampanella09&show_icons=true&theme=dark)
+
 ---
 
 ## 🧰 Tech Stack
