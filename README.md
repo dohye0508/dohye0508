@@ -6,7 +6,7 @@
 <table>
 <tr>
 <td align="center" width="90"><img src="https://img.shields.io/badge/2025-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" width="70" alt="2025"/></td>
-<td><b>과학영재 창의연구(R&E) 발표대회</b> — 정보분야 혁신도전상</td>
+<td><b>과학영재 창의연구(R&E) 발표대회</b> — 정보분야 본선 진출, 혁신도전상</td>
 </tr>
 <tr>
 <td align="center"><img src="https://img.shields.io/badge/2025-FFD700?style=flat-square&labelColor=FFD700&color=FFD700" width="70" alt="2025"/></td>
