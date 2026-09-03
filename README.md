@@ -1,7 +1,4 @@
-# dohye0508
-
-ISHS 32기
-
+*ISHS 32nd*
 ---
 
 ### Awards
@@ -57,8 +54,6 @@ ISHS 32기
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lacampanella09)](https://solved.ac/lacampanella09/)
 
 ---
-
-![eq](https://latex.codecogs.com/png.image?\dpi{150}e^{i\pi}+1=0)
 
 ### Links
 
